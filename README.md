@@ -21,11 +21,9 @@ Stakeholdername|Title|Role|Power(H/L)|Interest(H/L)|Requirements|Communication
 | **Please bring:** |Laptop  |
 |  **Agenda items:**|The initiation of the intelligent assistant based on the gpt4.0 and The plannign of the intelligent assistant based on the gpt4.0|
 <h3>minutes</h3>
-|Agenda Item 1:|The initiation of the intelligent assistant based on the gpt4.0|Presenter:|Xavier
-|--|--|--|--|
 
 |Agenda Item 1: |Presenter:| 
-|--|--|-
+|--|--|
 |The initiation of a web site of the intelligent assistant based on the gpt4.0|Xavier  
 <h4>Discussion:</h4>
 <p>The requirement of the prototype, what the assistant need to realize and the the target customers and why should we create it and how to create it( what instrument and technique to apply).</p>
@@ -45,7 +43,7 @@ Stakeholdername|Title|Role|Power(H/L)|Interest(H/L)|Requirements|Communication
 |Test the feasibility |Xavier Eric Twilight  |May 20th
 
 |Agenda Item 2: |Presenter:| 
-|--|--|-
+|--|--|
 |The planning of the assistant|Xavier
 <h4>Discussion:</h4>
 <p>Are the all techniques available?</p>
